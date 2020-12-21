@@ -1,0 +1,414 @@
+[{
+  "_id": "BfiyETiNJ",
+  "name": "123",
+  "email": "thanhnguyen.09022000@gmail.com",
+  "phone": "1",
+  "address": "10 Cô Bắc, Phường 1, Phú Nhuận",
+  "product": [
+    {
+      "_id": {
+        "$oid": "5fd2fc2cb3d3b75d14310b87"
+      },
+      "Product_id": "5fbbcfddc56bcd34f80ccefc",
+      "namePro": "QUẦN SHORT",
+      "Quality": 1,
+      "Units": 500000,
+      "Price": 500000
+    }
+  ],
+  "total": 500000,
+  "date": "2020-12-11",
+  "__v": 0
+},{
+  "_id": "jwyGKMROF",
+  "name": "123",
+  "email": "thanhnguyen.09022000@gmail.com",
+  "phone": "123",
+  "address": "123",
+  "product": [
+    {
+      "_id": {
+        "$oid": "5fd3599452d2d533d4abbd8c"
+      },
+      "Product_id": "5fbbcfddc56bcd34f80ccefc",
+      "namePro": "QUẦN SHORT",
+      "Quality": 9,
+      "Units": 500000,
+      "Price": 4500000
+    }
+  ],
+  "total": 4500000,
+  "date": "2020-12-11",
+  "__v": 0
+},{
+  "_id": "bYvXFG34w",
+  "name": "123",
+  "email": "thanhnguyen.09022000@gmail.com",
+  "phone": "123",
+  "address": "123",
+  "product": [
+    {
+      "_id": {
+        "$oid": "5fd35d0852d2d533d4abbd8f"
+      },
+      "Product_id": "5fbbcfddc56bcd34f80ccefc",
+      "namePro": "QUẦN SHORT",
+      "Quality": 2,
+      "Units": 500000,
+      "Price": 1000000
+    },
+    {
+      "_id": {
+        "$oid": "5fd36b66a56aae3fd822b346"
+      },
+      "Product_id": "5fbbd00ac56bcd34f80ccefd",
+      "namePro": "TKY OLY ",
+      "Quality": 1,
+      "Units": 900000,
+      "Price": 900000
+    },
+    {
+      "_id": {
+        "$oid": "5fd36b68a56aae3fd822b347"
+      },
+      "Product_id": "5fbbd061c56bcd34f80ccefe",
+      "namePro": "QUẦN SHORT ",
+      "Quality": 1,
+      "Units": 500000,
+      "Price": 500000
+    }
+  ],
+  "total": 2400000,
+  "date": "2020-12-11",
+  "__v": 0
+},{
+  "_id": "DBoWJrpfS",
+  "name": "datnen",
+  "email": "tuanphong99@yahoo.com",
+  "phone": "213454215",
+  "address": "10 Cô Bắc, Phường 1, Phú Nhuận",
+  "product": [
+    {
+      "_id": {
+        "$oid": "5fd3b2ca4ca5e45ec837863c"
+      },
+      "Product_id": "5fbbcfddc56bcd34f80ccefc",
+      "namePro": "QUẦN SHORT",
+      "Quality": 1,
+      "Units": 500000,
+      "Price": 500000
+    },
+    {
+      "_id": {
+        "$oid": "5fd3b2cc4ca5e45ec837863d"
+      },
+      "Product_id": "5fbbd00ac56bcd34f80ccefd",
+      "namePro": "TKY OLY ",
+      "Quality": 1,
+      "Units": 900000,
+      "Price": 900000
+    },
+    {
+      "_id": {
+        "$oid": "5fd3b2e04ca5e45ec837863e"
+      },
+      "Product_id": "5fbbd061c56bcd34f80ccefe",
+      "namePro": "QUẦN SHORT ",
+      "Quality": 1,
+      "Units": 500000,
+      "Price": 500000
+    }
+  ],
+  "total": 1900000,
+  "date": "2020-12-12",
+  "__v": 0
+},{
+  "_id": "Z4d4foYul",
+  "name": "Tin tức và sự kiện",
+  "email": "thanhnguyen.09022000@gmail.com",
+  "phone": "123",
+  "address": "10 Cô Bắc, Phường 1, Phú Nhuận",
+  "product": [
+    {
+      "_id": {
+        "$oid": "5fd4803f3910fd00170d9487"
+      },
+      "Product_id": "5fbbcfddc56bcd34f80ccefc",
+      "namePro": "QUẦN SHORT",
+      "Quality": 1,
+      "Units": 500000,
+      "Price": 500000
+    }
+  ],
+  "total": 500000,
+  "date": "2020-12-12",
+  "__v": 0
+},{
+  "_id": "Dms83hk8F",
+  "name": "sdfsdf",
+  "email": "NamHPGCS18027@gmail.com",
+  "phone": "51929",
+  "address": "sdffds",
+  "product": [
+    {
+      "_id": {
+        "$oid": "5fd486ab3910fd00170d948c"
+      },
+      "Product_id": "5fbbcfddc56bcd34f80ccefc",
+      "namePro": "QUẦN SHORT",
+      "Quality": 1,
+      "Units": 500000,
+      "Price": 500000
+    }
+  ],
+  "total": 500000,
+  "date": "2020-12-12",
+  "__v": 0
+},{
+  "_id": "4ABwOiwuW",
+  "name": "jnjn",
+  "email": "tuanphong99@yahoo.com",
+  "phone": "123214",
+  "address": "10 Cô Bắc, Phường 1, Phú Nhuận",
+  "product": [
+    {
+      "_id": {
+        "$oid": "5fd4cf56d25bb200175cc50c"
+      },
+      "Product_id": "5fbbcfddc56bcd34f80ccefc",
+      "namePro": "QUẦN SHORT",
+      "Quality": 2,
+      "Units": 500000,
+      "Price": 1000000
+    },
+    {
+      "_id": {
+        "$oid": "5fd4e1cd1c883800175368fa"
+      },
+      "Product_id": "5fbbd00ac56bcd34f80ccefd",
+      "namePro": "TKY OLY ",
+      "Quality": 1,
+      "Units": 900000,
+      "Price": 900000
+    },
+    {
+      "_id": {
+        "$oid": "5fd4e1d31c883800175368fb"
+      },
+      "Product_id": "5fbbd160c56bcd34f80ccf00",
+      "namePro": "Áo thun",
+      "Quality": 2,
+      "Units": 900000,
+      "Price": 1800000
+    }
+  ],
+  "total": 3700000,
+  "date": "2020-12-12",
+  "__v": 0
+},{
+  "_id": "oKR6SjUwr",
+  "name": "Tin tức và sự kiện",
+  "email": "thanhnguyen.09022000@gmail.com",
+  "phone": "123214",
+  "address": "10 Cô Bắc, Phường 1, Phú Nhuận",
+  "product": [
+    {
+      "_id": {
+        "$oid": "5fd4e02a71737e0b043aa7ba"
+      },
+      "Product_id": "5fbbd160c56bcd34f80ccf00",
+      "namePro": "Áo thun",
+      "Quality": 1,
+      "Units": 900000,
+      "Price": 900000
+    },
+    {
+      "_id": {
+        "$oid": "5fd4e1d871737e0b043aa7bb"
+      },
+      "Product_id": "5fbbd184c56bcd34f80ccf02",
+      "namePro": "áo thun",
+      "Quality": 1,
+      "Units": 900000,
+      "Price": 900000
+    },
+    {
+      "_id": {
+        "$oid": "5fd59dfe71737e0b043aa7bc"
+      },
+      "Product_id": "5fbbd00ac56bcd34f80ccefd",
+      "namePro": "TKY OLY ",
+      "Quality": 1,
+      "Units": 900000,
+      "Price": 900000
+    },
+    {
+      "_id": {
+        "$oid": "5fd59dff71737e0b043aa7bd"
+      },
+      "Product_id": "5fbbd0c1c56bcd34f80cceff",
+      "namePro": "QUẦN SHORT",
+      "Quality": 1,
+      "Units": 900000,
+      "Price": 900000
+    }
+  ],
+  "total": 3600000,
+  "date": "2020-12-13",
+  "__v": 0
+},{
+  "_id": "_7Qc1D7zN",
+  "name": "thanh",
+  "email": "thanhnguyen.09022000@gmail.com",
+  "phone": "123",
+  "address": "10 Cô Bắc, Phường 1, Phú Nhuận",
+  "product": [
+    {
+      "_id": {
+        "$oid": "5fd4e22a1c883800175368ff"
+      },
+      "Product_id": "5fbbd00ac56bcd34f80ccefd",
+      "namePro": "TKY OLY ",
+      "Quality": 2,
+      "Units": 900000,
+      "Price": 1800000
+    },
+    {
+      "_id": {
+        "$oid": "5fd5a383ac1fc70017475d2d"
+      },
+      "Product_id": "5fbbcfddc56bcd34f80ccefc",
+      "namePro": "QUẦN SHORT",
+      "Quality": 1,
+      "Units": 500000,
+      "Price": 500000
+    },
+    {
+      "_id": {
+        "$oid": "5fd5a391ac1fc70017475d2e"
+      },
+      "Product_id": "5fbbd0c1c56bcd34f80cceff",
+      "namePro": "QUẦN SHORT",
+      "Quality": 1,
+      "Units": 900000,
+      "Price": 900000
+    }
+  ],
+  "total": 3200000,
+  "date": "2020-12-13",
+  "__v": 0
+},{
+  "_id": "dkkgkHAD-",
+  "name": "thanh",
+  "email": "thanh@gmail.com",
+  "phone": "09090909",
+  "address": "thanh",
+  "product": [
+    {
+      "_id": {
+        "$oid": "5fd78ea85a554a00176361ee"
+      },
+      "Product_id": "5fbbcfddc56bcd34f80ccefc",
+      "namePro": "QUẦN SHORT",
+      "Quality": 2,
+      "Units": 500000,
+      "Price": 1000000
+    },
+    {
+      "_id": {
+        "$oid": "5fd78eb35a554a00176361ef"
+      },
+      "Product_id": "5fbbd00ac56bcd34f80ccefd",
+      "namePro": "TKY OLY ",
+      "Quality": 1,
+      "Units": 900000,
+      "Price": 900000
+    },
+    {
+      "_id": {
+        "$oid": "5fd78ebb5a554a00176361f0"
+      },
+      "Product_id": "5fbbd160c56bcd34f80ccf00",
+      "namePro": "Áo thun",
+      "Quality": 1,
+      "Units": 900000,
+      "Price": 900000
+    }
+  ],
+  "total": 2800000,
+  "date": "2020-12-14",
+  "__v": 0
+},{
+  "_id": "S5Sl_CBKz",
+  "name": "đinh thanh tung",
+  "email": "tungdinh288@gmail.com",
+  "phone": "123",
+  "address": "041020",
+  "product": [],
+  "total": null,
+  "date": "2020-12-16",
+  "__v": 0
+},{
+  "_id": "dTlQEmPRY",
+  "name": "123",
+  "email": "thanhnguyen.09022000@gmail.com",
+  "phone": "123",
+  "address": "10 Cô Bắc, Phường 1, Phú Nhuận",
+  "product": [
+    {
+      "_id": {
+        "$oid": "5fd9a9764d639441248405dc"
+      },
+      "Product_id": "5fbbd160c56bcd34f80ccf00",
+      "namePro": "Áo thun",
+      "Quality": 2,
+      "Units": 900000,
+      "Price": 1800000
+    }
+  ],
+  "total": 1800000,
+  "date": "2020-12-16",
+  "__v": 0
+},{
+  "_id": "PIrOekK-g",
+  "name": "ádas",
+  "email": "daada@afasff.com",
+  "phone": "0969474352",
+  "address": "hẻm 1, 06, đường Võ Thị Sáu, khu phố 7",
+  "product": [
+    {
+      "_id": {
+        "$oid": "5fdb01439d5fdc00b4e5578a"
+      },
+      "Product_id": "5fbbcfddc56bcd34f80ccefc",
+      "namePro": "QUẦN SHORT",
+      "Quality": 2,
+      "Units": 500000,
+      "Price": 1000000
+    }
+  ],
+  "total": 1000000,
+  "date": "2020-12-17",
+  "__v": 0
+},{
+  "_id": "DtXc9zPAr",
+  "name": "123",
+  "email": "thanhnguyen.09022000@gmail.com",
+  "phone": "123",
+  "address": "213",
+  "product": [
+    {
+      "_id": {
+        "$oid": "5fdda3fa9db6400017cd401b"
+      },
+      "Product_id": "5fbbcfddc56bcd34f80ccefc",
+      "namePro": "QUẦN SHORT",
+      "Quality": 1,
+      "Units": 500000,
+      "Price": 500000
+    }
+  ],
+  "total": 500000,
+  "date": "2020-12-19",
+  "__v": 0
+}]

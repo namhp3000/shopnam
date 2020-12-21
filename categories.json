@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "5fbbce8fc56bcd34f80ccefa"
+  },
+  "nameCategory": "Quần",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbbce97c56bcd34f80ccefb"
+  },
+  "nameCategory": "Áo",
+  "__v": 0
+}]

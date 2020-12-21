@@ -1,0 +1,17 @@
+.bg-light {
+    background-color: rgba(210, 255, 47, 0.082)!important;
+}
+
+body {
+    background-color: white;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: black;
+    border-color: black;
+}
+
+.card-text {
+    color: red;
+}
